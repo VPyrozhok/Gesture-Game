@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecognizeGesture-master.CSharp.Plugins", "RecognizeGesture-master.CSharp.Plugins.csproj", "{1A6F41BA-0751-8F32-DD15-E0567159EDF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecognizeGesture-master.CSharp", "RecognizeGesture-master.CSharp.csproj", "{ADAF064C-9B19-07E9-7C6E-103558D78ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecognizeGesture-master.CSharp.Editor.Plugins", "RecognizeGesture-master.CSharp.Editor.Plugins.csproj", "{1BD1D63D-B4B8-8F47-A026-75D79A0084CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecognizeGesture-master.CSharp.Editor", "RecognizeGesture-master.CSharp.Editor.csproj", "{6F7E66ED-4DF4-8749-DC16-5E39E6D8B3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A6F41BA-0751-8F32-DD15-E0567159EDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6F41BA-0751-8F32-DD15-E0567159EDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6F41BA-0751-8F32-DD15-E0567159EDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6F41BA-0751-8F32-DD15-E0567159EDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADAF064C-9B19-07E9-7C6E-103558D78ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAF064C-9B19-07E9-7C6E-103558D78ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAF064C-9B19-07E9-7C6E-103558D78ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAF064C-9B19-07E9-7C6E-103558D78ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD1D63D-B4B8-8F47-A026-75D79A0084CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD1D63D-B4B8-8F47-A026-75D79A0084CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD1D63D-B4B8-8F47-A026-75D79A0084CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD1D63D-B4B8-8F47-A026-75D79A0084CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7E66ED-4DF4-8749-DC16-5E39E6D8B3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7E66ED-4DF4-8749-DC16-5E39E6D8B3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7E66ED-4DF4-8749-DC16-5E39E6D8B3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7E66ED-4DF4-8749-DC16-5E39E6D8B3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
